@@ -1,2 +1,2 @@
-# Calculadore_DesarrolloWeb
+# Calculadora_DesarrolloWeb
 Reto-JavaScript
